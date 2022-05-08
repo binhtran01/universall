@@ -8868,7 +8868,7 @@ body {
 footer .container {
   background-image: url("../images/frame\ big.png");
   background-size: 100% 100%;
-  padding-bottom: 10%;
+  padding-bottom: 15%;
   padding-top: 2em;
   overflow: hidden;
 }
@@ -8891,7 +8891,7 @@ footer .footer-logo {
 }
 
 .title {
-    position: relative;
+  position: relative;
 }
 
 .title::after {
